@@ -1,2 +1,2 @@
 # dark-mode-exercise
-Dark Mode using Javascrip Modules
+Exercising Dark Mode using Javascrip Modules, DOM manipulation and CSS variables.
